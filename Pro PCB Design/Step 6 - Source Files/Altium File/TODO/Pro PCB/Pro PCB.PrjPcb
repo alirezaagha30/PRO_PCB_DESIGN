@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RXZGEUWD
 
 [Document2]
-DocumentPath=Schlib1.SchLib
+DocumentPath=Pro PCB.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -81,10 +81,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=INPTSOLQ
+DocumentUniqueId=
 
 [Document3]
-DocumentPath=PcbLib1.PcbLib
+DocumentPath=PROPCB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BXIPTOHK
 
 [Document4]
-DocumentPath=Pro PCB.BomDoc
+DocumentPath=PROPCB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -115,7 +115,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=INPTSOLQ
 
 [Configuration1]
 Name=Sources

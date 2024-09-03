@@ -1,0 +1,19 @@
+Here describe all the things which have to be improved or done in the next revision.
+
+Schematic:
+Block diagram - change i2c4 with i2c2
+Delete a note about sdckeo resistor (page DDR3)
+fit R65 - connect RGMII reset
+fit Q9 - connect boot mode signal to the B2B connector
+Replace R103 and R104 with lower value (stronger pullup). Check if 4k99 will be enought.
+Add note to schematic: pins for SD3 can be used as CAN, pins for Audio can be used for another SPI
+
+PCB:
+
+
+Production:
+
+
+Firmware:
+update the file in linux/arch/arm/mach-mx6/board-mx6q_sabresd - add a support for lvds vga displays.
+Uncomment the option "LDB-VGA"

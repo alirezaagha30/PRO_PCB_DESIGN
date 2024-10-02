@@ -3,6 +3,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat&label=Profile+Views) 
 
 
+![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social) ![GitHub stars](https://img.shields.io/github/stars/your-github-username/your-repo?style=social) ![Altium Designer](https://img.shields.io/badge/Altium-Designer-blue)
+
+
+
+
 # 🎓 آموزش آلتیوم دیزاینر: از مبتدی تا پیشرفته
 
 به مخزن گیت‌هاب من خوش آمدید! اینجا مرجع اصلی فایل‌های پروژه‌ای است که در دوره‌های آموزشی آلتیوم دیزاینر در [کانال یوتیوب من](https://www.youtube.com/channel/UC-jJgBC9ehgVrvqAeVyyFCA) مورد استفاده قرار می‌گیرند. در این دوره‌ها، از مبانی پایه شروع کرده و تا مباحث پیشرفته طراحی مدارهای چاپی (PCB) را به شما آموزش می‌دهم.

@@ -1,9 +1,7 @@
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC-jJgBC9ehgVrvqAeVyyFCA?style=social)](https://www.youtube.com/channel/UC-jJgBC9ehgVrvqAeVyyFCA)
 [![YouTube Views](https://img.shields.io/youtube/channel/views/UC-jJgBC9ehgVrvqAeVyyFCA?style=social)](https://www.youtube.com/channel/UC-jJgBC9ehgVrvqAeVyyFCA)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat&label=Profile+Views) 
-
-
-![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social) ![GitHub stars](https://img.shields.io/github/stars/your-github-username/your-repo?style=social) ![Altium Designer](https://img.shields.io/badge/Altium-Designer-blue)
+![Altium Designer](https://img.shields.io/badge/Altium-Designer-blue)
 
 
 
